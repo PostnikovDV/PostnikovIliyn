@@ -1,0 +1,9 @@
+﻿  test.cpp
+C:\PostnikovIliyn\Sort\SortMethod.h(81,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\PostnikovIliyn\SortTime\test.cpp(21,75): message : see reference to function template instantiation 'std::chrono::duration<double,std::ratio<1,1>> measureTime<void(__cdecl *)(int [],int),_Ty*,unsigned __int64>(T,_Ty *,unsigned __int64)' being compiled
+          with
+          [
+              _Ty=int,
+              T=void (__cdecl *)(int [],int)
+          ]
+  SortTime.vcxproj -> C:\PostnikovIliyn\SortTesting\x64\Debug\SortTime.exe
